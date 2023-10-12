@@ -639,6 +639,11 @@ browserslist@^4.21.9:
     node-releases "^2.0.13"
     update-browserslist-db "^1.0.13"
 
+calendar-pkg@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/calendar-pkg/-/calendar-pkg-1.1.0.tgz#998b35f1b836032225e9eda28cfda5aadf2f6536"
+  integrity sha512-pEX6e9H1UB9BvuNG85VGGXrlb2Eqorcfe1sPufTgDcXbF9U2SCZa45e9cQBMO+cSrH2qTHyZLtLGVbRaqqQ/EA==
+
 call-bind@^1.0.0, call-bind@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/call-bind/-/call-bind-1.0.2.tgz#b1d4e89e688119c3c9a903ad30abb2f6a919be3c"
